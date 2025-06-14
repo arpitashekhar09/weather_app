@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Weather App ☀️
+
+🌐 **Live Site:** [Click here to view the deployed app](https://arpitaweather.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
