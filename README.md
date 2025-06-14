@@ -1,6 +1,5 @@
-# Weather App ☀️
-
-🌐 **Live Site:** [Click here to view the deployed app](https://arpitaweather.netlify.app/)
+final Website https://arpitaweather.netlify.app/
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start`z
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
